@@ -1,0 +1,1 @@
+NPS_API_KEY = "2QFzlM4fClV6FPMqlpNz7rMpjG4K1WQTUtAZnwfy"
